@@ -18,7 +18,11 @@ Hand Gesture Flappy Bird is a fun and interactive twist on the classic Flappy Bi
    ```bash
    pip install -r requirements.txt
    ```
-
+## Game Instructions
+1. Thumbs Up: Super-man goes up
+2. Thumns Down: Super-man goes down
+3. Avoid Touching the obstacles
+   
 ## Usage
 
 1. Navigate to the project directory:
