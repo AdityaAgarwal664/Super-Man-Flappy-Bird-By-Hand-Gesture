@@ -2,7 +2,7 @@
 Flap your way to victory using hand gestures in this interactive twist on the classic Flappy Bird game.
 Sure, here's an updated version of the README file, along with instructions for capturing a demo video:
 
-```markdown
+
 # Hand Gesture Flappy Bird
 
 Hand Gesture Flappy Bird is a fun and interactive twist on the classic Flappy Bird game, where you control the bird's movement using hand gestures. This project utilizes the Mediapipe library for hand tracking and Pygame for creating the game interface.
@@ -51,8 +51,3 @@ To see a demonstration of the Hand Gesture Flappy Bird in action, you can watch 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-To capture a demo video:
-1. Play the game and navigate through it to showcase its features.
-2. Use screen recording software to capture the gameplay.
-3. Upload the video to a video sharing platform like YouTube.
-4. Replace `VIDEO_ID_HERE` in the README file with the actual video ID from the uploaded video. This will embed the video in the README.
