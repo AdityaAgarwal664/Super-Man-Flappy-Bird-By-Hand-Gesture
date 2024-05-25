@@ -11,7 +11,7 @@ Hand Gesture Flappy Bird is a fun and interactive twist on the classic Flappy Bi
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/hand-gesture-flappy-bird.git
+   git clone https://github.com/AdityaAgarwal664/Super-Man-Flappy-Bird-By-Hand-Gesture.git
    ```
 
 2. Install the required dependencies:
